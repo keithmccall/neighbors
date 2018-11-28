@@ -26,4 +26,4 @@ yarn-error.log*
 /.idea
 /.vscode
 /.sass-cache
-/src/keys.js
+/src/keys
