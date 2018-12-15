@@ -27,7 +27,7 @@ yarn-error.log*
 /.idea
 /server/.idea
 /.history
-/.idea
+/client/.idea
 /.vscode
 /.sass-cache
 /client/src/keys
